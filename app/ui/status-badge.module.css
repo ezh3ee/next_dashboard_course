@@ -1,0 +1,16 @@
+.active {
+    color: #10b981;
+}
+
+.inactive {
+    color: #9ca3af;
+}
+
+.badge {
+    background-color: #6a5a20;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
